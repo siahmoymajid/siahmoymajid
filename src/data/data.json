@@ -3,7 +3,7 @@
         "about": {
             "name": "Sia Majid",
             "role": "Full Stack Developer",
-            "bio": "LorLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bio": "Full Stack Web Developer with a background in sociology and life-long dedication to learning. Excellence-driven Full Stack developer with versatile skill set and a strong passion for developing dynamic web applications. Bringing expertise in both front-end and back-end development, and thriving in dynamic, team-orientated settings. Embracing continues learning and approaching problem-solving with innovative thinking and effective communication.",
             "picture": "profile.jpg",
             "email": "smajid2008@hotmail.com"
         },
@@ -11,24 +11,24 @@
             "projects": [
                 {
                     "title": "MatchMaker",
-                    "description": "This Dating App is a comprehensive online dating platform that allows users to find their perfect match.Our dating app is a modern, user-friendly platform designed to help singles find love and connect with like-minded individuals.",
-                    "image": "project-3.jpg",
+                    "description": "This Dating App is a comprehensive online dating platform that allows users to find their perfect match.Our dating app is a modern, user-friendly platform designed to help singles find love and connect with like-minded individuals. Tools: React, GraphQL, Node.js, Express.js, MongoDB, Mongoose ODM, and Material UI",
+                    "image": "matchmaker.png",
                     "url": "https://matchmakerdating.herokuapp.com/",
                     "github": "https://github.com/JakeDish/date-app"
                 },
                 {
-                    "title": "Auto Self Help",
-                    "description": "For this project we decided to create an application that allows the user to create a login and then post about issues with their cars. When the user posts about their car issue then they are able to recieve feedback from other users that will comment on the post.",
-                    "image": "project-2.jpg",
-                    "url": "https://agile-ocean-74686.herokuapp.com/",
-                    "github": "https://github.com/PintoDrop/autoselfhelp"
+                    "title": "Weather App",
+                    "description": "The Weather app is a highly efficient and user-friendly application that allows users to access detailed and accurate information about current and future weather forecasts in various cities. With its comprehensive features and intuitive interface, this app serves as an invaluable resource for individuals seeking up-to-date weather data for their desired locations. Tools: HTML, CSS, JavaScript, jQuery, API, Local storage",
+                    "image": "weather.png",
+                    "url": "https://siahmoymajid.github.io/Weather-dashboard",
+                    "github": "https://github.com/siahmoymajid/Weather-dashboard"
                 },
                 {
                     "title": "Hotels On Demand",
-                    "description": "This application will help the user that is traveling find a hotel for their desired location. This application will also allow the user to see what the best food options are near that hotel.",
-                    "image": "project-1.jpg",
+                    "description": "This application will help the user that is traveling find a hotel for their desired location. This application will also allow the user to see what the best food options are near that hotel.Tools: HTML, CSS, Javascript, Bulma, Yelp Fusion API, and travel advisor API",
+                    "image": "hotels.png",
                     "url": "https://thandyn.github.io/Hotels-on-Demand/",
-                    "github": "https://github.com/thandyn/Hotels-on-Demand"
+                    "github":"https://github.com/thandyn/Hotels-on-Demand"
                 }
             ]
         },
@@ -42,8 +42,8 @@
         },
         "socials": 
             {
-                "github": "https://github.com",
-                "linkedin": "https://linkedin.com"
+                "github": "https://github.com/siahmoymajid",
+                "linkedin": "https://www.linkedin.com/in/siahmoymajid/"
             },
         "pages": {
                 "about": "About",
