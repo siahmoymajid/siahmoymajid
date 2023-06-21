@@ -23,13 +23,16 @@
                     "url": "https://siahmoymajid.github.io/Weather-dashboard",
                     "github": "https://github.com/siahmoymajid/Weather-dashboard"
                 },
+                
+
                 {
-                    "title": "Hotels On Demand",
-                    "description": "This application will help the user that is traveling find a hotel for their desired location. This application will also allow the user to see what the best food options are near that hotel.Tools: HTML, CSS, Javascript, Bulma, Yelp Fusion API, and travel advisor API",
-                    "image": "hotels.png",
-                    "url": "https://thandyn.github.io/Hotels-on-Demand/",
-                    "github":"https://github.com/thandyn/Hotels-on-Demand"
+                  "title": "Hotels On Demand",
+                  "description": "This application will help the user that is traveling find a hotel for their desired location. This application will also allow the user to see what the best food options are near that hotel.Tools: HTML, CSS, Javascript, Bulma, Yelp Fusion API, and travel advisor API",
+                  "image": "hotels.png",
+                  "url": "https://thandyn.github.io/Hotels-on-Demand/",
+                  "github": "https://github.com/thandyn/Hotels-on-Demand"
                 }
+
             ]
         },
         "resume": {
