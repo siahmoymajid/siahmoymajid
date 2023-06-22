@@ -64,7 +64,7 @@ function App() {
                     />
                   }
                 />
-                <Route path="*" element={<ErrorPage />} />
+                {/* <Route path="*" element={<ErrorPage />} /> */}
               </Routes>
               <Footer github={github} linkedin={linkedin} email={email} />
             </Col>

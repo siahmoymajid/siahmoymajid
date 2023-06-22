@@ -9,7 +9,7 @@ const Resume = ({ data, title }) => {
       <Row className="d-flex justify-content-between align-items-center w-100 mt-2">
         <Col md={4}>
           <a
-            href="/public/resume.pdf"
+            href="/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="display pop btn btn-light btn-lg"

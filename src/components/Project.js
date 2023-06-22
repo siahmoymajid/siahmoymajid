@@ -1,6 +1,5 @@
 import React from 'react'
 import { Col, Card, Button, ButtonGroup } from 'react-bootstrap'
-
 const Project = ({ project, i }) => {
   console.log(project);
   return (
@@ -9,8 +8,8 @@ const Project = ({ project, i }) => {
 
     <Col>
       <Card bg="dark" className=" shadow-10 p-2 h-100">
-        <Card.Header className='display text-uppercase text-center  text-light fs-5'>  {project.title}</Card.Header>
-        <Card.Img className='sepia' variant="bottom" src={`/assets/images/${project.image}`} />
+        <Card.Header className='display text-uppercase text-center  text-light fs-6'>  {project.title}</Card.Header>
+        <Card.Img className='sepia' variant="top" src={`/assets/images/${project.image}`} />
         <Card.Body>
 
           <ButtonGroup className="mb-2 w-100">
